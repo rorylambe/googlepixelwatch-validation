@@ -1,0 +1,35 @@
+participant_id,test_date,vo2max_attained,cosmed_vo2max,pixel_vo2max,pixel_vo2max_estimate_date,include_vo2,cosmed_ee,pixel_ee
+p01,13/2/25,Yes,46.41,48,13/2/25,y,197,251
+p02,25/2/25,Yes,56.59,55,13/2/25,y,289,299
+p03,25-02-2025,Yes,63.77,70,25/2/25,y,210,119
+p04,11/3/25,No,no,-,-,n,-,-
+p05,11/3/25,Yes,52.59,48,11/3/25,y,247,277
+p06,19/3/25,Yes,54.9,53,25/3/25,y,199,-
+p07,19/3/25,Yes,54.76,52,20/3/25,y,220,258
+p08,9/6/25,Yes,44.71,41,11/6/25,y,147,153
+p09,12/6/25,Yes,41.91,42,26/6/25,y,96,82
+p10,12/6/25,Yes,44.93,51,25/6/25,y,119,-
+p11,12/6/25,Yes,53.61,58,19/6/25,y,183,160
+p12,18/6/25,Yes,39.37,38,20/6/25,y,81,121
+p13,18/6/25,Yes,68.3,No prediction within 2 weeks,No prediction within 2 weeks,n,226,177
+p14,19/6/25,Yes,50.45,40,26/6/25,y,105,118
+p15,25/6/25,Yes,43.11,No prediction within 2 weeks - estimate range only,No prediction within 2 weeks,n,161,171
+p16,26/6/25,Yes,48.12,44,6/7/25,y,126,115
+p17,26/6/25,Yes,44.71,45,3/7/25,y,113,89
+p18,27/6/25,Yes,51.47,No prediction within 2 weeks,No prediction within 2 weeks,n,181,151
+p19,3/7/25,Yes,49.21,No prediction within 2 weeks,No prediction within 2 weeks,n,180,187
+p20,3/7/25,Yes,41.37,38,12/7/25,y,117,127
+p21,3/7/25,Yes,55.53,No prediction within 2 weeks,No prediction within 2 weeks ,n,178,165
+p22,4/7/25,Yes,61.11,61,5/7/25,y,275,208
+p23,11/7/25,Yes,53.06,45,1/8/25,y,151,104
+p24,11/7/25,Yes,44.18,40,16/7/25,y,122,118
+p25,11/7/25,Yes,61.85,59,16/7/25,y,198,159
+p26,17/7/25,Yes,45.1,No prediction generated,No prediction generated,n,148,145
+p27,17/07/25,Yes,48.73,43,23/7/25,y,161,153
+p28,18/7/25,Yes,49.94,43,21/7/25,y,134,127
+p29,18/7/25,Yes,53.6,51,25/7/25,y,206,168
+p30,18/7/25,Yes,60.08,81,21/7/25,y,220,178
+p31,22/7/25,Yes,38.36,44,29/7/25,y,169,197
+p32,23/7/2025,Yes,51.49,55,26/7/25,y,158,150
+p33,23/7/2025,Yes,50.34,-,-,n,195,-
+p34,31/7/2025,Yes,54.11,56,2/8/25,y,193,212
