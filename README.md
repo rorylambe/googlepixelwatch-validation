@@ -156,4 +156,5 @@ Sections 2–4 are device-agnostic: once `criterion` and `index` are defined as 
 
 ## Citation
 
-If you use this code or data, please cite the associated manuscript (details to follow on publication).
+If you use this code or data, please cite the associated manuscript:
+Lambe, Rory, et al. "The accuracy of VO2 max, heart rate and energy expenditure measurements from Google Pixel Watch 3." PloS one 21.9 (2026): e0356808.
